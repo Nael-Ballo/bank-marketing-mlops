@@ -1,4 +1,4 @@
 # bank-marketing-mlops
 
 ## Auteurs
-Nael Ballo, Prénom Nom Binôme
+Nael Ballo, Mael Phillipe
